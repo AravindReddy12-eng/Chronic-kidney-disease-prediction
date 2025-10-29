@@ -6,13 +6,13 @@ This web application was developed using the **Flask** web framework. The predic
 
 ![image](images/image1.png)
 
-![image](https://user-images.githubusercontent.com/62790398/125474884-71a047bf-2648-49ff-816d-907b1dc2b68a.png)
+![image](images/image2.png)
 
-![image](Image.png)
+![image](images/image3.png)
 
-![image](https://github.com/user-attachments/assets/093fafc0-7ee7-4f66-862e-ce519da1fcaa)
+![image](images/image4.png)
 
-![image](https://github.com/user-attachments/assets/c44f14ea-d73c-4dea-8396-e295ca77ec11)
+![image](images/image5.png)
 
 
 
