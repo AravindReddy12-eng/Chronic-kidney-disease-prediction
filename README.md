@@ -8,7 +8,7 @@ This web application was developed using the **Flask** web framework. The predic
 
 ![image](https://user-images.githubusercontent.com/62790398/125474884-71a047bf-2648-49ff-816d-907b1dc2b68a.png)
 
-![image](https://user-images.githubusercontent.com/62790398/125475302-8e02b5d8-d0b2-473b-b83e-f4d807dc0412.png)
+![image](Image.png)
 
 ![image](https://github.com/user-attachments/assets/093fafc0-7ee7-4f66-862e-ce519da1fcaa)
 
